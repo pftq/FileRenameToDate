@@ -1,0 +1,5 @@
+J:\PFTQ\CSharp\FileRenameToDate\Source\bin\x64\Debug\FileRenameToDate.exe
+J:\PFTQ\CSharp\FileRenameToDate\Source\bin\x64\Debug\FileRenameToDate.pdb
+J:\PFTQ\CSharp\FileRenameToDate\Source\obj\x64\Debug\FileRenameToDate.csprojResolveAssemblyReference.cache
+J:\PFTQ\CSharp\FileRenameToDate\Source\obj\x64\Debug\FileRenameToDate.exe
+J:\PFTQ\CSharp\FileRenameToDate\Source\obj\x64\Debug\FileRenameToDate.pdb

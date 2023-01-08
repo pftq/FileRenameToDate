@@ -1,0 +1,12 @@
+F:\TechTrader\Plugins\Ememsei\TechTraderMonitor\bin\x64\Release\TaskKeepAlive.exe
+F:\TechTrader\Plugins\Ememsei\TechTraderMonitor\bin\x64\Release\TaskKeepAlive.pdb
+F:\TechTrader\Plugins\Ememsei\TechTraderMonitor\obj\x64\Release\TaskKeepAlive.csprojResolveAssemblyReference.cache
+F:\TechTrader\Plugins\Ememsei\TechTraderMonitor\obj\x64\Release\TaskKeepAlive.exe
+F:\TechTrader\Plugins\Ememsei\TechTraderMonitor\obj\x64\Release\TaskKeepAlive.pdb
+J:\PFTQ\CSharp\TaskKeepAlive\Source\obj\x64\Release\TaskKeepAlive.exe
+J:\PFTQ\CSharp\TaskKeepAlive\Source\obj\x64\Release\TaskKeepAlive.pdb
+J:\PFTQ\CSharp\TaskKeepAlive\Source\bin\x64\Release\TaskKeepAlive.exe
+J:\PFTQ\CSharp\TaskKeepAlive\Source\bin\x64\Release\TaskKeepAlive.pdb
+J:\PFTQ\CSharp\TaskKeepAlive\Source\obj\x64\Release\TaskKeepAlive.csprojResolveAssemblyReference.cache
+J:\PFTQ\CSharp\FileRenameToDate\Source\obj\x64\Release\TaskKeepAlive.exe
+J:\PFTQ\CSharp\FileRenameToDate\Source\obj\x64\Release\TaskKeepAlive.pdb
