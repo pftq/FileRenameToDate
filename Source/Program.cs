@@ -16,7 +16,7 @@ namespace FileRenameToDate
 
         static void Main(string[] args)
         {
-            string dateformat = "yyyy-MM-dd-hh-mm-ss";
+            string dateformat = "yyyy-MM-dd-HH-mm-ss";
             WriteLine("FileRenameToDate by pftq ~ www.pftq.com ~ Jan. 2023");
             WriteLine("This program renames files in the same directory to the date created, along with optional time shift.");
             WriteLine("File name format will be '" + dateformat+"'.");
